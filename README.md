@@ -1,5 +1,5 @@
 -  Hi, I’m Danny
--  I’m interested in Front End Development and all things gaming
+-  I’m interested in Front End Web Development and all things gaming
 - 📫 popeysoft@gmail.com
 
 <!---
